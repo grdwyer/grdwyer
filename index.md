@@ -12,4 +12,5 @@ I'm a research fellow in Computer Science at UCL currently working on robot assi
  - Robotic Actuation for Fetoscopic Interventions (my PhD work)
 
 ### Resources
-I try to document things that took me a while to figure out or that I have to do everyonce in a while but can't remember the exact commands. [This is a list of all the ones I've written up so far](https://grdwyer.github.io/resources)
+I try to document things that took me a while to figure out or that I have to do everyonce in a while but can't remember the exact commands.  
+[This is a list of all the ones I've written up so far](https://grdwyer.github.io/resources)
