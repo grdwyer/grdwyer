@@ -10,3 +10,6 @@ I'm a research fellow in Computer Science at UCL currently working on robot assi
  - Robot Assisted Fabrication in the Operating Room
  - Micro-resector 
  - Robotic Actuation for Fetoscopic Interventions (my PhD work)
+
+### Resources
+I try to document things that took me a while to figure out or that I have to everyonce in a while but can't remember the exact commands. [This](https://grdwyer.github.io/resources) has a list of all the ones I've written up so far.
