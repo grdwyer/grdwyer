@@ -1,3 +1,4 @@
+# Raspberry Pi Setup
 Best to setup the image using the Raspberry pi [imager](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit)
 
 It's all pretty much like a normal linux system if you have a display, keyboard and mouse.  

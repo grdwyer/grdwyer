@@ -1,4 +1,4 @@
-## Resources
+# Resources
 
 This is a load of small guides and cheat sheet style snippets that help me in my work.  
 Occasionally they may not be the best way to do things but just the way that I've found to work in the time I've had available. If you have any suggestions for better ways to do things please get in touch or put in a pull request directly in github.  

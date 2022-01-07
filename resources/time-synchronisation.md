@@ -1,3 +1,4 @@
+# Network Time Protocol
 NTP is a good way to synchronise clocks across different machines (and the only one I'm really aware of).
 
 # Install
